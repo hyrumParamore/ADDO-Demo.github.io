@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
+/* Red Color: #FE6E6F */
 
 
 body {
@@ -158,6 +159,17 @@ hr {
     color: #28A3CA;
     padding-left: 10px;
 }
+.learn-more {
+    color: #28A3CA;
+    padding-left: 10px;
+}
+.thank-you {
+    /* color: #F2994A;  */
+    color: #28A3CA;
+    padding-left: 10px;
+}
+
+
 
 .checkbox {
     max-width: 18px;
