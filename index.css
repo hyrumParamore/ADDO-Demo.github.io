@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
 /* Red Color: #FE6E6F */
+/* Orange Color: #F2994A */
 
 
 body {
@@ -140,7 +141,15 @@ footer p {
 
 .resources-container {
     padding-left: 30px;
-    
+    padding-right: 30px;
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.resources-container div {
+    padding: 10px;
 }
 
 
@@ -169,13 +178,12 @@ hr {
     padding-left: 10px;
 }
 
-
-
 .checkbox {
     max-width: 18px;
     max-height: 18px;
     padding-right: 10px;
 }
+
 .gif-title {
     font-size: 16px; 
 }
@@ -199,4 +207,28 @@ hr {
     height: 18px; 
     margin-right: 10px;
 }
+
+.copyright {
+    text-align: center;
+    color: #BDE12E;
+}
+
+.contact-item {
+    color: #28A3CA;
+}
+.name {
+    color: #DADBDB;
+
+}
+
+a:link {
+    color: #28A3CA;
+    list-style: none;
+    
+    
+}
+a:visited {
+    color: #28A3CA;
+}
+
 
