@@ -208,7 +208,7 @@ hr {
 .future-ideas-list {
     padding-left: 20px;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
 }
 
 .checkbox-empty {
