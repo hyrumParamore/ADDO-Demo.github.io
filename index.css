@@ -194,6 +194,16 @@ hr {
     margin-top: -14px;
     /* margin-bottom: 10px; Optional margin between ideas */
 }
+.sub-idea {
+    margin-left: 40px; /* Adjust the indentation as needed */
+    margin-top: -20px;
+    /* margin-bottom: -10px; */
+    font-size: 16px;
+}
+.note {
+    color: #F2994A;
+}
+
 
 .future-ideas-list {
     padding-left: 20px;
